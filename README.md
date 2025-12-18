@@ -18,21 +18,19 @@ This project fine-tunes a Transformer-based model for **Named Entity Recognition
 
 ## 📌 Table of Contents
 
-- [🟢 Persian Named Entity Recognition (NER) using Transformers + WikiAnn](#-persian-named-entity-recognition-ner-using-transformers--wikiann)
-  - [📌 Table of Contents](#-table-of-contents)
-  - [📖 Overview](#-overview)
-  - [📁 Project Structure](#-project-structure)
-  - [📊 Model Evaluation](#-model-evaluation)
-  - [⚙️ Installation](#️-installation)
-    - [Clone the repository:](#clone-the-repository)
-    - [🧪 Create a virtual environment and install dependencies](#-create-a-virtual-environment-and-install-dependencies)
-  - [🚀 Usage](#-usage)
-    - [▶ Run prediction script](#-run-prediction-script)
-    - [🧪 Run FastAPI App](#-run-fastapi-app)
-    - [🧪 Test the API (POST request)](#-test-the-api-post-request)
-    - [✅ Model Predictions](#-model-predictions)
-  - [🧠 Model](#-model)
-  - [📬 Contact](#-contact)
+- [📖 Overview](#-overview)
+- [📁 Project Structure](#-project-structure)
+- [📊 Model Evaluation](#-model-evaluation)
+- [⚙️ Installation](#️-installation)
+  - [Clone the repository](#clone-the-repository)
+  - [🧪 Create a virtual environment and install dependencies](#-create-a-virtual-environment-and-install-dependencies)
+- [🚀 Usage](#-usage)
+  - [▶ Run prediction script](#-run-prediction-script)
+  - [🧪 Run FastAPI App](#-run-fastapi-app)
+  - [🧪 Test the API (POST request)](#-test-the-api-post-request)
+  - [✅ Model Predictions](#-model-predictions)
+- [🧠 Model](#-model)
+- [📬 Contact](#-contact)
 
 ---
 
