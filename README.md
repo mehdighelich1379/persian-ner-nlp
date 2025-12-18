@@ -190,7 +190,7 @@ Send a JSON request like below to the `/predict/` endpoint using Postman or curl
 
 ## 🧠 Model
 
-- ✅ **Base model**: `bert-base-multilingual-cased`
+- ✅ **Base model**: `bert-base-parsbert-uncased`
 - ✅ **Task**: Named Entity Recognition (NER)
 - ✅ **Language**: Persian (Farsi)
 - ✅ **Training data**: [WikiAnn-fa dataset](https://huggingface.co/datasets/wikiann)
