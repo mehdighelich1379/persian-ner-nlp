@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/DeepLearning-PyTorch-EE4C2C?logo=pytorch" />
   <img src="https://img.shields.io/badge/NLP-BERT-important?logo=bert" />
   <img src="https://img.shields.io/badge/ML-ScikitLearn-F7931E?logo=scikit-learn" />
-  <img src="https://img.shields.io/badge/API-RESTful-lightgrey?logo=swagger" />
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
 </p>
 
